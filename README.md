@@ -1,7 +1,9 @@
 # SaveGame
 
 Topic: Game Save
+
 Platform: Unity 3D
+
 Language: C#
 
 Intro: Saving the progress is essential for almost every game. When I was learning Unity 3D, I tried to create bigger games rather than one-time mini-games. After browsing the YouTube and the forum of Unity, I realized there are serval ways to save game progress. Each of them has different cons and pons. One of these approaches is very beginner-friendly because it is fairly simple and reliable.
